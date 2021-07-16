@@ -9,3 +9,8 @@ Slightly opinionated overview with some examples (+ nice pics):
 	- [slowly changing dimensions](https://en.wikipedia.org/wiki/Slowly_changing_dimension) by Kimball vs storing daily history using partitions
 - BI tools (and history)
 - Arc of adoption
+
+
+# Data Roles
+## Data Engineering
+### [Data Engineer Roadmap](https://github.com/datastacktv/data-engineer-roadmap)

@@ -10,6 +10,11 @@ Slightly opinionated overview with some examples (+ nice pics):
 - BI tools (and history)
 - Arc of adoption
 
+# dbt
+## Introductions and overviews
+### [(ru) Мультитул для управления Хранилищем Данных — кейс Wheely + dbt](https://habr.com/ru/company/wheely/blog/549614/)
+Showcasing dbt features with small examples of Wheely's setup: data layers, tags, project structure, materialization, incremental updates, templating, modules, dbt Cloud.
+
 
 # Data Roles
 ## Data Engineering
